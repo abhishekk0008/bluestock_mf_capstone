@@ -1,0 +1,59 @@
+Data Quality Summary
+
+01_fund_master.csv
+- Shape: (40, 15)
+- Missing Values: 0
+- Duplicates: 0
+
+02_nav_history.csv
+- Shape: (46000, 3)
+- Missing Values: 0
+- Duplicates: 0
+
+03_aum_by_fund_house.csv
+- Shape: (90, 5)
+- Missing Values: 0
+- Duplicates: 0
+
+04_monthly_sip_inflows.csv
+- Shape: (48, 6)
+- Missing Values: 12 (yoy_growth_pct)
+- Duplicates: 0
+
+05_category_inflows.csv
+- Shape: (144, 3)
+- Missing Values: 0
+- Duplicates: 0
+
+06_industry_folio_count.csv
+- Shape: (21, 6)
+- Missing Values: 0
+- Duplicates: 0
+
+07_scheme_performance.csv
+- Shape: (40, 19)
+- Missing Values: 0
+- Duplicates: 0
+
+08_investor_transactions.csv
+- Shape: (32778, 13)
+- Missing Values: 0
+- Duplicates: 0
+
+09_portfolio_holdings.csv
+- Shape: (322, 8)
+- Missing Values: 0
+- Duplicates: 0
+
+10_benchmark_indices.csv
+- Shape: (8050, 3)
+- Missing Values: 0
+- Duplicates: 0
+
+Key Findings:
+- All datasets loaded successfully.
+- No duplicate records found.
+- Only 12 missing values found in yoy_growth_pct column of monthly SIP inflows dataset.
+- amfi_code is the common key linking multiple datasets.
+
+
