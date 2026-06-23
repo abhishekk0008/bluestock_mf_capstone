@@ -56,4 +56,18 @@ Key Findings:
 - Only 12 missing values found in yoy_growth_pct column of monthly SIP inflows dataset.
 - amfi_code is the common key linking multiple datasets.
 
+Fund Master Analysis
+
+- Total Schemes: 40
+- Total Fund Houses: 10
+- Categories: 2
+- Sub Categories: 12
+- Risk Categories: 5
+- Primary Key: amfi_code
+
+AMFI Validation
+
+- Total Fund Master Codes: 40
+- Total NAV History Codes: 40
+- All AMFI Codes are valid.
 
