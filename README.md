@@ -59,19 +59,29 @@ bluestock_mf_capstone/
 
 ## 📈 Dashboards
 
-The Power BI solution consists of four interactive dashboards:
+## 📈 Dashboard Preview
 
-* #Industry Overview Dashboard
-![alt text](<Industry Overview-1.png>)
+### Industry Overview Dashboard
 
-* #Fund Performance Dashboard
-![](<Fund Performance-1.png>)
+![Industry Overview](images/industry_overview.png)
 
-* #Investor Analytics Dashboard
-![alt text](<Investor Analytics.png>)
+---
 
-* #SIP & Market Trends Dashboard
-![alt text](<SIP & Market Trends.png>)
+### Fund Performance Dashboard
+
+![Fund Performance](images/fund_performance.png)
+
+---
+
+### Investor Analytics Dashboard
+
+![Investor Analytics](images/investor_analytics.png)
+
+---
+
+### SIP & Market Trends Dashboard
+
+![SIP & Market Trends](images/sip_market_trends.png)
 
 
 ---
